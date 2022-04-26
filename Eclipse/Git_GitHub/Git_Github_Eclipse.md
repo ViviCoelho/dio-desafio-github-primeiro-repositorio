@@ -8,4 +8,9 @@
 
 
 
-OBS: o meu users e password do GitHub não estava funcionado no Eclipse então o que eu fiz: entrei no meu GitHub => Cliquei na minha foto => Settings => Developers
+OBS: o meu users e password do GitHub não estava funcionado no Eclipse então o que eu fiz: entrei no meu GitHub => Cliquei na minha foto => Settings => Developers settings => personal access tokens => Generate new token 
+
+ai coloquei meu usuario e token e fiz o Push head.
+
+obs2:  essa token é bom salvar em algum lugar pra não ter que fica fazendo tudo isso outra vez.
+
